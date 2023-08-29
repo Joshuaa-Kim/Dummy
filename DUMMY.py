@@ -21,3 +21,7 @@ print("Praise the Lord Almighty regardless of situation, even when things get to
 # Today is a new day where I have a Dummy respository in github, now it is time to see if I can send it up there
 
 # More changes lol
+
+# By using git config user.email, it still thinks this file is attached to jkim2224@usc.edu even though I changed the global. Strange
+# But to have separate emails for each repository do: git config user.email "joshuakimtwin2004@gmail.com"
+# To confirm global address: git config --global user.email 
