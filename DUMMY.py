@@ -4,7 +4,7 @@ print("These edits are made from newedits, check it out bro!")
 print("Praise the Lord Almighty regardless of situation, even when things get tough walk with Him and he will make your paths straight")
 
 
-i wrote this in newedits lol
+#i wrote this in newedits lol
 
 # couple of things to note: 
 # The edits made in the main branch carry over to the edits in the branches below it
@@ -19,3 +19,5 @@ i wrote this in newedits lol
 #merge main
 
 # Today is a new day where I have a Dummy respository in github, now it is time to see if I can send it up there
+
+# More changes lol
