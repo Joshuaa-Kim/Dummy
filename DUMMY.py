@@ -17,3 +17,5 @@ i wrote this in newedits lol
 # one more thing to note is that since you merged newedits into main, newedits have none of the changes that main has. It doesn't even have 
 #the file you created when you were in the main branch. In order to essentially make the two branches identical, checkout newedits and then
 #merge main
+
+# Today is a new day where I have a Dummy respository in github, now it is time to see if I can send it up there
