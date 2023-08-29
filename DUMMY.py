@@ -27,3 +27,5 @@ print("Praise the Lord Almighty regardless of situation, even when things get to
 # To confirm global address: git config --global user.email 
 # But this is still not working, so do git remote set-url origin git://someserver/chirag/myproject.git to change the origin 
 # repository git is pulling from
+
+# When branches have diverged, use git rebase origin/main
