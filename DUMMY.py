@@ -31,5 +31,7 @@ print("Praise the Lord Almighty regardless of situation, even when things get to
 # When branches have diverged, use: git rebase origin/main
 # Here are some more edits:
 
-# BRO IT WORKED: My guess: you need to proper remote set-url origin, proper email, username, and incase there are divergent branches
-# rebase them. But before to pull contents of the remote repository and then push it up
+# BRO IT WORKED: how to fix: you need to proper remote set-url origin (to set up the path), proper email, username (my best guess is for linearity and sycning), 
+# and incase there are divergent branches rebase them. But before to pull contents of the remote repository and then push it up
+
+# The dummy directory in this file is the clone of the remote repository 
