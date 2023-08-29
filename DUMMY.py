@@ -25,3 +25,5 @@ print("Praise the Lord Almighty regardless of situation, even when things get to
 # By using git config user.email, it still thinks this file is attached to jkim2224@usc.edu even though I changed the global. Strange
 # But to have separate emails for each repository do: git config user.email "joshuakimtwin2004@gmail.com"
 # To confirm global address: git config --global user.email 
+# But this is still not working, so do git remote set-url origin git://someserver/chirag/myproject.git to change the origin 
+# repository git is pulling from
